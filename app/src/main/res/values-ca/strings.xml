@@ -3,4 +3,5 @@
     <string name="app_name">Meva Aplicació</string>
     <string name="hello">Hola Món!</string>
     <string name="bye">Adéu!</string>
+    <string name="button">Clicam!</string>
 </resources>
