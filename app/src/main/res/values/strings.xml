@@ -3,4 +3,5 @@
     <string name="hello">Hello World!</string>
     <string name="bye">Bye!</string>
     <string name="button">Click me!</string>
+    <string name="toast">This is London!</string>
 </resources>

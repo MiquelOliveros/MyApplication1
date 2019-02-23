@@ -4,4 +4,5 @@
     <string name="hello">Hola Mundo!</string>
     <string name="bye">Adiós!</string>
     <string name="button">Clicame!</string>
+    <string name="toast">Esto es Madrid!</string>
 </resources>

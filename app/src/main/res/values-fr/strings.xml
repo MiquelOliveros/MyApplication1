@@ -4,4 +4,5 @@
     <string name="hello">Salut Monde!</string>
     <string name="bye">Au revoir!</string>
     <string name="button">Clique moi!</string>
+    <string name="toast">C\'est Paris!</string>
 </resources>
