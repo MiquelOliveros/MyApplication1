@@ -13,14 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Button clickButton = findViewById(R.id.button);
-        clickButton.setOnClickListener(new Toaster());
-    }
-
-    private class Toaster implements View.OnClickListener {
-
-        @Override
-        public void onClick(View v) {
-            Toast.makeText(MainActivity.this, R.string.toast, Toast.LENGTH_SHORT).show();
-        }
+        clickButton.setOnClickListener(new Toaster(MainActivity.this));
     }
 }
